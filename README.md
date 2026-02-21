@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-* Daniel Alexander Ahumada León
-* Juan Camilo Torres
-* Juan Manuel Neira
+* Daniel Alexander Ahumada León (Scrum Master)
+* Juan Camilo Torres (Product owner)
+* Juan Manuel Neira (desarrollador)
 
 ---
 
