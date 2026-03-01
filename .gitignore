@@ -27,3 +27,15 @@ hs_err_pid*
 # --- Sistema Operativo ---
 .DS_Store
 Thumbs.db
+
+# Ignore Maven files
+.mvn/
+
+# Ignore build artifacts
+build/
+out/
+*.jar
+*.war
+*.class
+*.log
+*.tmp
