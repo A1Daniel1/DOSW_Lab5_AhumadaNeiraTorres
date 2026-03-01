@@ -150,3 +150,28 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID de la Historia de Uso asociada** | HU-04 |
 | **Descripción** | Crear el endpoint `POST /cuentas/{id}/depositos` que inicie el flujo de depósito vía PSE, valide el monto (mayor a cero) y retorne la URL de redirección al usuario para completar el pago. |
 | **Tareas requisito** | TR-10, TR-11 |
+
+
+
+# video del planning poker 
+
+historia de usuario 1 comprendida por las tareas de:
+-crear la base de datos 
+-implementar validaciones del numero de la cuenta
+-implementar creacion de cuentas
+
+https://teams.microsoft.com/l/meetingrecap?driveId=b%21-Mgoy6LOnU2lyoan7rg8taTgiuwSdJlOtGTnFUqAIE-up3tgmOB0RoUIFXvrMVZs&driveItemId=016HQMUJGHQM2PW7NQSBBYJQ3MSZLWXCYK&sitePath=https%3A%2F%2Fpruebacorreoescuelaingeduco-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fjuan_neira-z_mail_escuelaing_edu_co%2FIQDHgzT7fbCQQ4TDbJZXa4sKAaE2_y8gjcOZ_sLpNxCrIIY&fileUrl=https%3A%2F%2Fpruebacorreoescuelaingeduco-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fjuan_neira-z_mail_escuelaing_edu_co%2FIQDHgzT7fbCQQ4TDbJZXa4sKAaE2_y8gjcOZ_sLpNxCrIIY&threadId=19%3A10bc4f5609094d9b86c7da8ff85f9eef%40thread.v2&organizerId=ce1f903c-9c2c-4ee7-b716-c56b640bd94d&tenantId=50640584-2a40-4216-a84b-9b3ee0f3f6cf&callId=57e1e7e5-2887-4f56-9b9e-f5f36ef78c26&threadType=GroupChat&meetingType=Adhoc&subType=RecapSharingLink_RecapChiclet
+
+
+5. En el archivo README.md contesten las siguientes preguntas:
+a. ¿Cuál fue la mayor dificultad a la hora de estimar?
+
+a la hora de estimar los puntos de historia de usuario es muy importante el tener diferentes perspectivas pues una persona puede pensar que una tarea es muy facil o muy complicado lo cual depende de persona a persona entonces estimar los puntos seria muy complpicado haciendolo solo y sin hablar para llegar a acuerdos
+
+b. ¿Fue fácil llegar a un consenso?
+
+si pues en nuestro grupo no se tienen personalidades que choquen entres si por o cual es facil llegar a ver las cosas con la perspectiva de los otros lo cual permite facimente llegar a consensos
+
+c. ¿Cómo resolvieron los escenarios donde las estimaciones para la misma historia de usuario no fueron cercanas?
+
+como se menciono en el punto anterior nuestro grupo tienen una buena comunicacion y comprension lo cual hace que podamos llegar a consensos facilmente cada quien exponiendo su razonaiento y sus opiniones donde despues de analizarlo se pudo llegar a solucionar las estimaciones incluso cuando se varia demasiado las estimaciones de cada persona
